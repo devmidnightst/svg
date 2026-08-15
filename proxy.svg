@@ -336,7 +336,7 @@
     </p>
 
     <form id="sj-form" class="flex-center">
-      <input id="sj-search-engine" value="https://www.google.com/search?q=%s" type="hidden" />
+      <input id="sj-search-engine" value="https://duckduckgo.com/?q=%s" type="hidden" />
       <div class="search-wrap">
         <svg class="search-icon" width="15" height="15" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
           <circle cx="7" cy="7" r="5" />
